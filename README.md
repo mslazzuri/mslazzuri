@@ -14,4 +14,4 @@ I'm a CS student at Colorado Mesa University. I love building solutions, apps an
 
 ## 📫 Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Portfolio](https://your-portfolio.com)
+- [Portfolio](https://mslazzuri.github.io/personal-website/)
