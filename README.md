@@ -6,11 +6,11 @@ I'm a CS student at Colorado Mesa University. I love building solutions, apps an
 - Firebase
 - C++ / C
 - Python
+- JavaScript
 
 ## 🌱 Currently working on
-- A Flutter swim club app (MavAquatics)
-- A Unity Flappy Bird clone
-- Truco App
+- Integrated Management System (IMS) for Quantum 13
+- Portfolio using Three.js
 
 ## 📫 Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
