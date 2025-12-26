@@ -1,16 +1,22 @@
 # Hi, I'm Matheus 👋
-I'm a CS student at Colorado Mesa University. I love building solutions, apps and exploring new tech!
+Recently graduated with a Bachelor's in Computer Science at Colorado Mesa University, and tech enthusiast.
 
-## 🚀 Tech I work with
-- Dart / Flutter
-- Firebase
-- C++ / C
+## Foundations
+- C
+- C++
 - Python
+
+## Recently working with
+- React
+- Three.JS
 - JavaScript
+- Flutter
+- Firebase
 
 ## 🌱 Currently working on
 - Integrated Management System (IMS) for Quantum 13
-- Portfolio using Three.js
+- Portfolio website
+- Re-working my 'Truco' website
 
 ## 📫 Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
