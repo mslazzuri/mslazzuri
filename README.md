@@ -13,7 +13,7 @@ Recently graduated with a Bachelor's in Computer Science at Colorado Mesa Univer
 - Flutter
 - Firebase
 
-## 🌱 Currently working on
+## Currently working on
 - Integrated Management System (IMS) for Quantum 13
 - Portfolio website
 - Re-working my 'Truco' website
