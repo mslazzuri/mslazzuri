@@ -18,6 +18,7 @@ Recently graduated with a Bachelor's in Computer Science at Colorado Mesa Univer
 - Portfolio website
 - Re-working my 'Truco' website
 
-## 📫 Let's connect!
+## Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [Portfolio](https://mslazzuri.github.io/personal-website/)
+- [Instagram](https://instagram.com/matheus_secco)
