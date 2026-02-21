@@ -1,5 +1,5 @@
 # Hi, I'm Matheus 👋
-Recently graduated with a Bachelor's in Computer Science at Colorado Mesa University, and tech enthusiast.
+Recently graduated with a Bachelor's in Computer Science at Colorado Mesa University. I enjoy sparkling water.
 
 ## Foundations
 - C
